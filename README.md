@@ -7,7 +7,7 @@ This project demonstrates hand tracking using MediaPipe and OpenCV in Python. It
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/hand-tracking.git
+    git clone https://github.com/An1rud/Basic-Hand-Tracking.git
     ```
 
 2. Install the required packages. Make sure you have Python installed:
